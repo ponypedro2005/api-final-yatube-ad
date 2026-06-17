@@ -61,3 +61,4 @@ class FollowSerializer(serializers.ModelSerializer):
                 {'following': ['Вы уже подписаны на этого автора.']}
             )
         return attrs
+    
