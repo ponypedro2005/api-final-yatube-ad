@@ -1,3 +1,4 @@
-from django.contrib import admin
+"""Posts app admin.
 
-# Register your models here.
+Admin registrations are not required for this project.
+"""

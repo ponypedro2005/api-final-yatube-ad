@@ -1,3 +1,4 @@
-from django.test import TestCase
+"""Posts app tests.
 
-# Create your tests here.
+Project tests are provided separately.
+"""

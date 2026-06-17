@@ -1,3 +1,4 @@
-from django.shortcuts import render
+"""Posts app views.
 
-# Create your views here.
+Frontend views are removed in API-only project.
+"""
